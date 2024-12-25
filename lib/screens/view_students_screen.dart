@@ -61,7 +61,7 @@ class _ViewStudentsScreenState extends State<ViewStudentsScreen> {
               itemBuilder: (context, index) {
                 final student = students[index];
                 return Card(
-                  margin: const EdgeInsets.symmetric(vertical: 20, horizontal: 20),
+                  margin: const EdgeInsets.symmetric(vertical: 21, horizontal: 20),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(12),
                   ),

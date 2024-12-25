@@ -1,9 +1,8 @@
 # student_info
 
 A new Flutter project.
-![images](assets/images/img.jpg)
-![images](assets/images/img1.jpg)
-![images](assets/images/img2.jpg)
+![images](assets/images/img.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
